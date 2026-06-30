@@ -248,7 +248,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Running the Application
+#  Running the Application
 
 Launch the Streamlit application:
 
@@ -314,18 +314,6 @@ A detailed project report is available in:
 ```
 report.md
 ```
-
-The report includes:
-
-- Dataset description
-- Feature engineering
-- Model training
-- Model evaluation
-- Ensemble strategy
-- Streamlit deployment
-- Future scope
-
----
 
 #  Future Improvements
 
