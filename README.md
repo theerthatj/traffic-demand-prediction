@@ -11,32 +11,6 @@ In addition to traffic demand prediction, the project also includes advanced pre
 
 ---
 
-#  Features
-
-##  Traffic Demand Prediction
-
-- Predict hourly traffic demand
-- Interactive Streamlit interface
-- Traffic congestion estimation
-- Peak traffic alerts
-- 24-hour traffic forecast visualization
-
----
-
-##  Exploratory Data Analysis Dashboard
-
-Visualizations include:
-
-- Traffic Demand Distribution
-- Traffic Demand by Road Type
-- Weather Impact Analysis
-- Correlation Heatmap
-- Feature Importance
-- Actual vs Predicted Plots
-- Additional exploratory plots
-
----
-
 ##  Model Performance Dashboard
 
 Compare the performance of multiple regression models using:
