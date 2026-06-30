@@ -152,20 +152,6 @@ These engineered features improved model performance by incorporating traffic do
 
 ---
 
-#  Machine Learning Models
-
-The project compares multiple regression algorithms.
-
-| Model | Purpose |
-|--------|---------|
-| Random Forest | Baseline Ensemble |
-| XGBoost | Gradient Boosting |
-| LightGBM | Gradient Boosting |
-| Stacking Regressor | Meta Ensemble |
-| Weighted Ensemble | Final Prediction Model |
-
----
-
 #  Evaluation Metrics
 
 Models were evaluated using:
