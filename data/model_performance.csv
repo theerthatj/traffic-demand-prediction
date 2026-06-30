@@ -1,0 +1,6 @@
+Model,R² Score,RMSE,MAE,MAPE
+Random Forest,0.9207,177.6,115.47,16.06
+XGBoost,0.9482,143.6,95.26,13.02
+LightGBM,0.9482,143.58,95.04,13.0
+Weighted Ensemble,0.9486,142.92,94.64,12.91
+Stacking,0.9482,143.53,95.24,13.02
