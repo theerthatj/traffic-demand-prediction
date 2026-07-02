@@ -88,7 +88,8 @@ traffic-demand-prediction/
 │   └── 06_advanced_predictions.ipynb
 │
 ├── reports/
-│    └── report.md
+│   ├── data_dictionary.md
+│   └── report.md
 │
 ├── src/
 │   └── ensemble_model.py
@@ -272,7 +273,8 @@ Displays:
 A detailed project report is available in:
 
 ```
-report.md
+-  `reports/report.md` – Complete project report
+-  `reports/data_dictionary.md` – Dataset documentation
 ```
 
 #  Future Improvements

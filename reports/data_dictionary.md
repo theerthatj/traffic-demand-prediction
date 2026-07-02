@@ -122,10 +122,7 @@ Represents peak traffic periods.
 **Formula**
 
 ```text
-Signal Density =
-Traffic Signals
----------------
-Number of Lanes
+Signal Density = Traffic Signals/Number of Lanes
 ```
 
 **Purpose**
@@ -162,10 +159,7 @@ Represents the combined influence of weather conditions on traffic flow.
 **Formula**
 
 ```text
-Traffic Density Score =
-Large Vehicle Count
--------------------
-50
+Traffic Density Score = Large Vehicle Count/50
 ```
 
 **Purpose**
